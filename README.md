@@ -14,4 +14,4 @@ To achieve this, you can use the technologies and tools of your choice.
 What are geofences:
 <a href = "https://en.wikipedia.org/wiki/Geofence#:~:text=A%20geofence%20is%20a%20virtual,school%20zones%20or%20neighborhood%20boundaries">Geofence Wikipedia</a> <br>
 Other resources:
-<href> https://www.statcan.gc.ca/eng/lode/databases/odb </href>
+<href> https://www.statcan.gc.ca/eng/lode/databases/od </href>
